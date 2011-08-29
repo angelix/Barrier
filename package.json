@@ -1,0 +1,8 @@
+{
+  "name": "barrier",
+  "description": "Barrier implementation inspired from MPI",
+  "version": "0.0.1",
+  "author": "Angelos Veglektsis <angelix@vegle.gr>",
+  "keywords": ["barrier", "sync"],
+  "main": "barrier.js"
+}
